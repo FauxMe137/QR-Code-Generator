@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: linear-gradient(reverse, rgb(75, 75, 219), rgb(55, 206, 55));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    cursor: pointer;
+}
+
+footer {
+    border-top: 3px solid white;
+    background-color: blue;
+    color: white;
+}
